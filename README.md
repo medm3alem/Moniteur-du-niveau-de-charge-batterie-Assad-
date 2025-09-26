@@ -48,8 +48,3 @@ Ce projet utilise les bibliothèques Arduino suivantes :
 4. Charger et téléverser le code `CAN_LCD.ino` dans l’Arduino.  
 5. Mettre sous tension la batterie → le SoC s’affiche sur l’écran LCD.  
 
-## 👨‍💻 Auteur
-Projet réalisé par **[Ton nom]**, pour **Bako Motors**, 2025.  
-
-## 📜 Licence
-Ce projet est distribué sous la licence [MIT](LICENSE).
