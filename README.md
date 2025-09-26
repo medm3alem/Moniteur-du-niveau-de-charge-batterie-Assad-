@@ -1,7 +1,7 @@
 # 🔋 Bako Motors Battery SoC Monitor
 
 ## 📌 Contexte
-Ce projet a été développé pour **Bako Motors** afin de surveiller en temps réel le **State of Charge (SoC)** d’une batterie.  
+Ce projet a été développé chez **Bako Motors** afin de surveiller en temps réel le **State of Charge (SoC)** d’une batterie.  
 La communication se fait via le **bus CAN** (CAN High & CAN Low) en interrogeant le **BMS** (Battery Management System) avec des requêtes CAN spécifiques, puis en affichant le résultat sur un **écran LCD I2C**.
 
 ![Setup Arduino avec écran LCD affichant SoC = 51%](SoC.jpg)  
