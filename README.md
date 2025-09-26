@@ -4,7 +4,7 @@
 Ce projet a été développé pour **Bako Motors** afin de surveiller en temps réel le **State of Charge (SoC)** d’une batterie.  
 La communication se fait via le **bus CAN** (CAN High & CAN Low) en interrogeant le **BMS** (Battery Management System) avec des requêtes CAN spécifiques, puis en affichant le résultat sur un **écran LCD I2C**.
 
-![Setup Arduino avec écran LCD affichant SoC = 51%](affichage_SoC.jpg)  
+![Setup Arduino avec écran LCD affichant SoC = 51%](SoC.jpg)  
 *Vue d'ensemble du montage : Arduino UNO connecté au module CAN, breadboard, écran LCD I2C affichant "SoC = 50%", et ordinateur portable pour le développement.*
 
 ![Batterie LiFePO4 60V 50Ah](batterie_utilise.jpg)  
